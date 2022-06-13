@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ManishGotame)
 
-## A web3 dev focusing on building DApps and Smart Contracts.
+# A web3 dev focusing on building DApps and Smart Contracts.
+
+## <a href="https://manishgotame.com.np/" target="_blank"> Website </a> / <a href="https://www.upwork.com/freelancers/~0125f2add906ad5883" target="_blank"> Freelancing Profile </a> / <a href="https://www.linkedin.com/in/manishgotame/" target="_blank"> LinkedIn </a> / <a href="https://www.twitter.com/ManishGotame/" target="_blank"> Twitter </a>
 
 <img src="https://raw.githubusercontent.com/ManishGotame/ManishGotame/main/images/anotherone.PNG" height="300">
 
@@ -25,14 +27,11 @@ Some of my Portfolio Projects. Please check them out:
 | Research Funding Club  | <a href="https://www.manishgotame.com.np/portfolio/rfc" target="_blank"> Details </a>  | <a href="https://researchfundingclub.com/"> Check Project </a> | <a href="https://www.manishgotame.com.np/portfolio/rfc" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/61de70ade8527e618d9589db/1652524841728-40YJUVPKFUGNXL5F12RR/rfcfrontpage.PNG?format=750w" height="180"> </a>
 | NFT Fever  | <a href="https://www.manishgotame.com.np/portfolio/nftfever" target="_blank"> Details </a>  | <a href="https://nftfever.io/"> Check Project </a> | <a href="https://www.manishgotame.com.np/portfolio/nftfever" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/61de70ade8527e618d9589db/1652524331304-2J81M5F2F7T0TY4SLTKH/frontimage.PNG?format=750w" height="180"> </a>
 
-If you want to work together on a project with me, send me a message on:
-- <a href="https://www.upwork.com/freelancers/~0125f2add906ad5883"> Upwork </a>
-- <a href="https://www.upwork.com/freelancers/~0125f2add906ad5883"> LinkedIn</a>
-- <a href="https://www.upwork.com/freelancers/~0125f2add906ad5883"> Twitter </a>
-
 Technology Stack:
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+
+If you want to work together on a project with me, send me a message and we can start hammering out the details.
 
 
 
