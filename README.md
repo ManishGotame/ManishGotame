@@ -2,8 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ManishGotame)
 
+## I am Manish. A web3 dev focusing on building DApps and Smart Contracts. 
 
-## I am Manish. A web3 developer focusing on building DApps and Smart Contracts. 
+<img src="https://raw.githubusercontent.com/ManishGotame/ManishGotame/main/images/upworkProfile.PNG" height="400">
 
 For the last few years, I have working with tech companies and clients all over the world to deliver high-quality DApps and Smart Contracts. Being more specific, I have experiences in:
 - ERC721A smart contracts, optimizations experience to save gas during launch.
