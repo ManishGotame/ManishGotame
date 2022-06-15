@@ -6,8 +6,6 @@
 
 ## <a href="https://manishgotame.com.np/" target="_blank"> Website </a> / <a href="https://www.upwork.com/freelancers/~0125f2add906ad5883" target="_blank"> Freelancing Profile </a> / <a href="https://www.linkedin.com/in/manishgotame/" target="_blank"> LinkedIn </a> / <a href="https://www.twitter.com/ManishGotame/" target="_blank"> Twitter </a>
 
-<img src="https://raw.githubusercontent.com/ManishGotame/ManishGotame/main/images/anotherone.PNG" height="300">
-
 For the last few years, I have working with tech companies and clients all over the world to deliver high-quality DApps and Smart Contracts. Being more specific, I have experiences in:
 - Smart Contracts, testing, and optimization experience to save gas during launch.
 - Working with smart contracts using token standards such as ERC721, ERC20, ERC1155, and so on.
@@ -22,10 +20,10 @@ Some of my Portfolio Projects. Please check them out:
 
 | Project Name  | Portfolio Details | Project Link | Image |
 | ------------- | ----------------- | ------------ | ----- |
-| Open Past Paper | <a href="https://www.manishgotame.com.np/portfolio/openpastpaper" target="_blank"> Details </a> | <a href="https://openpastpaper.com/"> Check Project </a> | <a href="https://www.manishgotame.com.np/portfolio/openpastpaper" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/61de70ade8527e618d9589db/1643453464221-SKB9S7C7JGVNEAEDZMAV/Open+Past+Paper.png?format=750w" height="180"> </a>
-| Million Dollar Vault  | <a href="https://www.manishgotame.com.np/portfolio/mdv-project" target="_blank"> Details </a>  | <a href="https://milliondollarvault.io/"> Check Project </a> | <a href="https://www.manishgotame.com.np/portfolio/mdv-project" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/61de70ade8527e618d9589db/1652524451246-1QH6H48QOYNC1CT7D4X5/frontpage.PNG?format=750w" height="180"> </a>
-| Research Funding Club  | <a href="https://www.manishgotame.com.np/portfolio/rfc" target="_blank"> Details </a>  | <a href="https://researchfundingclub.com/"> Check Project </a> | <a href="https://www.manishgotame.com.np/portfolio/rfc" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/61de70ade8527e618d9589db/1652524841728-40YJUVPKFUGNXL5F12RR/rfcfrontpage.PNG?format=750w" height="180"> </a>
-| NFT Fever  | <a href="https://www.manishgotame.com.np/portfolio/nftfever" target="_blank"> Details </a>  | <a href="https://nftfever.io/"> Check Project </a> | <a href="https://www.manishgotame.com.np/portfolio/nftfever" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/61de70ade8527e618d9589db/1652524331304-2J81M5F2F7T0TY4SLTKH/frontimage.PNG?format=750w" height="180"> </a>
+| Open Past Paper | <a href="https://www.manishgotame.com.np/portfolio/openpastpaper" target="_blank"> Details </a> | <a href="https://openpastpaper.com/"> Check Project </a> | <a href="https://www.manishgotame.com.np/portfolio/openpastpaper" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/61de70ade8527e618d9589db/1643453464221-SKB9S7C7JGVNEAEDZMAV/Open+Past+Paper.png?format=750w" height="150"> </a>
+| Million Dollar Vault  | <a href="https://www.manishgotame.com.np/portfolio/mdv-project" target="_blank"> Details </a>  | <a href="https://milliondollarvault.io/"> Check Project </a> | <a href="https://www.manishgotame.com.np/portfolio/mdv-project" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/61de70ade8527e618d9589db/1652524451246-1QH6H48QOYNC1CT7D4X5/frontpage.PNG?format=750w" height="150"> </a>
+| Research Funding Club  | <a href="https://www.manishgotame.com.np/portfolio/rfc" target="_blank"> Details </a>  | <a href="https://researchfundingclub.com/"> Check Project </a> | <a href="https://www.manishgotame.com.np/portfolio/rfc" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/61de70ade8527e618d9589db/1652524841728-40YJUVPKFUGNXL5F12RR/rfcfrontpage.PNG?format=750w" height="150"> </a>
+| NFT Fever  | <a href="https://www.manishgotame.com.np/portfolio/nftfever" target="_blank"> Details </a>  | <a href="https://nftfever.io/"> Check Project </a> | <a href="https://www.manishgotame.com.np/portfolio/nftfever" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/61de70ade8527e618d9589db/1652524331304-2J81M5F2F7T0TY4SLTKH/frontimage.PNG?format=750w" height="150"> </a>
 
 Technology Stack:
 
