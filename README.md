@@ -1,41 +1,15 @@
 # Hello, World! 👋
 
-![](https://komarev.com/ghpvc/?username=ManishGotame)
+# I build web3 applications, and Saas products. 
 
-# A web3 dev focusing on building DApps and Smart Contracts.
+Worked on a startup -- burned out, and then moved to working as a freelancer and currently working as a smart contract dev.
 
-## <a href="https://manishgotame.com.np/" target="_blank"> Website </a> / <a href="https://www.upwork.com/freelancers/~0125f2add906ad5883" target="_blank"> Freelancing Profile </a> / <a href="https://www.linkedin.com/in/manishgotame/" target="_blank"> LinkedIn </a> / <a href="https://www.twitter.com/ManishGotame/" target="_blank"> Twitter </a>
+- [OpenPastPaper](https://openpastpaper.com/) - Worked on a startup for a few years, burned out myself.
+- [Freelancing](https://www.upwork.com/freelancers/~0125f2add906ad5883) - Currently working as a freelancer to provide Smart contract / web3 dev services.
+- [Portfolio](https://manishgotame.com.np) - Professional profile and Work Portfolio.
+- [Articles](https://blog.manishgotame.com.np) - Blogs on Smart contract and software development.
 
-For the last few years, I have working with tech companies and clients all over the world to deliver high-quality DApps and Smart Contracts. Being more specific, I have experiences in:
-- Smart Contracts, testing, and optimization experience to save gas during launch.
-- Working with smart contracts using token standards such as ERC721, ERC20, ERC1155, and so on.
-- Have developed smart contracts in the field of staking, NFT minting, ERC20 token distribution, etc.
-- React.js to facilitate the front-end development and integration with over 15 wallets.
-- Seamless experience in optimizing both mobile and web experience during minting for 100% sales success.
-- Firebase, Python/ Django in the backend to host your application and store specific data such as addresses, and analytics to your needs.
-- Moralis in the backend to support database connections for your web3 frontend.
- 
-<br/>
+Socials:
+- [LinkedIn](https://www.linkedin.com/in/manishgotame/) / [Twitter](https://twitter.com/manishgotame/) / [Instagram](https://instagram.com/manish.gotame)
 
-Technology Stack:
-
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-
-If you want to work together on a project with me, send me a message and we can start hammering out the details.
-
-
-
-<!--
-**ManishGotame/ManishGotame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to work together on a project with me, send me an email at: (hello@manish.com)[mailto:manishgt194@gmail.com] and we can start hammering out the details.
