@@ -2,7 +2,7 @@
 
 ## I build web3 applications and SaaS products. 
 
-### Currently working as a smart contract developer at CarboonZero, Israel.
+### Currently working as a Smart contract developer at CarboonZero, Israel.
 
 Relevant Stuff:
 
