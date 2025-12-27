@@ -1,8 +1,11 @@
-# Hello, World! 👋
+### Hey, I'm Manish
 
-### Currently working as a Full-Stack Developer at Digital Power (CarboonZero)
+I'm a software developer at Digital Power. Also I'm building Open Past Paper.
 
-Please visit my [portfolio](https://manishgotame.com.np) for more information.
-  
-Socials:
-- [LinkedIn](https://www.linkedin.com/in/manishgotame/) / [Twitter](https://twitter.com/manishgotame/) / [Instagram](https://instagram.com/manish.gotame)
+Most of my projects are in private repos, but I share some experiments and small projects at [manishgotame.com.np](https://manishgotame.com.np/portfolio)
+
+
+[Open Past Paper &rarr;](https://openpastpaper.com) <br />
+[More about me &rarr;](https://manishgotame.com.np/about) <br />
+[My personal website](https://manishgotame.com.np/) <br />
+[@builtbymanish on X &rarr;](https://twitter.com/builtbymanish)
